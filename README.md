@@ -55,8 +55,8 @@ This project dives into YouTube trending videos data from India to uncover **tre
 * **Evening (6–8 PM)** is the golden time when viewers are most active
 
 📌 *Visualizations:*
-`![Daily Views](images/daily_views.png)`
-`![Hourly Views](images/hourly_views.png)`
+![Average Views by Day](images/avg_views_by_day.PNG)
+![Average Views by Hour](images/avg_views_by_hour.PNG)
 
 ---
 
@@ -66,7 +66,7 @@ This project dives into YouTube trending videos data from India to uncover **tre
 * The keyword **“biopic”** suggests Sanjay Dutt’s biopic heavily influenced trending content
 
 📌 *Visualization:*
-`![Word Cloud](images/wordcloud.png)`
+![Word Cloud of Top Videos](images/wordcloud_top_videos.PNG)
 
 ---
 
@@ -77,7 +77,7 @@ This project dives into YouTube trending videos data from India to uncover **tre
 * **Views ↔ Dislikes:** Weaker correlation (**0.54**) → controversial videos still trend
 
 📌 *Visualization:*
-`![Correlation Matrix](images/correlation_matrix.png)`
+![Correlation Heatmap](images/correlation_heatmap.PNG)
 
 ---
 
