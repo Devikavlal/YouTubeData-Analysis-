@@ -44,7 +44,8 @@ This project dives into YouTube trending videos data from India to uncover **tre
 * Some channels (Flowers Comedy, VikatanTV) heavily use **duplicate uploads** to boost views
 
 📌 *Visualization:*
-`![Category Views](images/category_views.png)`
+`![Total Views by Category](images/views_by_category.PNG)
+![Top Channels by Income](images/top_channels_income.PNG)
 
 ---
 
